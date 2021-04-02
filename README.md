@@ -18,7 +18,7 @@ By this way in this project we have deployed some of the machine learning algori
 <i>•The values such as, Bedrooms,Bathrooms,Latitude,Longitude,Sqft_living,Sqft_Above,Grade,Years_Renovated,Views,Floors,waterfront,Grade is given as input values<br>
 •	The output will be displayed along with the input values given by the user and also the Estimated Price of the Real Estate<br>
 •	The input variables given by the user will be saved to the database</i>
-</b>
+</br>
 <b>METHODOLOGY:</b>
 <br>
 <i>•	Collection of Data<br>
