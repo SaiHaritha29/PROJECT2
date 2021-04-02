@@ -6,23 +6,27 @@ By this way in this project we have deployed some of the machine learning algori
 </i>
 
 <b>HOME:</b>
-<i>•	It consists of details about recent trending news in the architecture and interior design of the real estate. 
-•	The latest news gives the description of the current trending market price of the real estate
-•	Gives about information about the Price of the land that undergoes each and every day which in by gives the insight of everyday news to keep up with the vary details of estate industry in India.
-•	It consists of registration form and login page which saves the details of the customers to the database for future process</i>
+<br>
+
+<i>•	It consists of details about recent trending news in the architecture and interior design of the real estate. <br>
+•	The latest news gives the description of the current trending market price of the real estate<br>
+•	Gives about information about the Price of the land that undergoes each and every day which in by gives the insight of everyday news to keep up with the vary details of estate industry in India.<br>
+•	It consists of registration form and login page which saves the details of the customers to the database for future process</i><br>
 <br>
 <b>PREDICTION:</b>
+<br>
 <i>•	The values such as,
-Bedrooms,Bathrooms,Latitude,Longitude,Sqft_living,Sqft_Above,Grade,Years_Renovated,Views,Floors,waterfront,Grade is given as input values
-•	The output will be displayed along with the input values given by the user and also the Estimated Price of the Real Estate
+Bedrooms,Bathrooms,Latitude,Longitude,Sqft_living,Sqft_Above,Grade,Years_Renovated,Views,Floors,waterfront,Grade is given as input values<br>
+•	The output will be displayed along with the input values given by the user and also the Estimated Price of the Real Estate<br>
 •	The input variables given by the user will be saved to the database</i>
 </b>
 <b>METHODOLOGY:</b>
-<i>•	Collection of Data
-•	Data Preprocessing
-•	Training the model
-•	Applying the Algorithm
-•	Testing the data
-•	Bulid the Model
-•	Price Prediction
+<br>
+<i>•	Collection of Data<br>
+•	Data Preprocessing<br>
+•	Training the model<br>
+•	Applying the Algorithm<br>
+•	Testing the data<br>
+•	Bulid the Model<br>
+•	Price Prediction<br>
 </i>
