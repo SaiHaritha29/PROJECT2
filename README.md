@@ -19,6 +19,7 @@ By this way in this project we have deployed some of the machine learning algori
 •	The output will be displayed along with the input values given by the user and also the Estimated Price of the Real Estate<br>
 •	The input variables given by the user will be saved to the database</i>
 <br>
+<br>
 <b>METHODOLOGY:</b>
 <br>
 <i>•	Collection of Data<br>
