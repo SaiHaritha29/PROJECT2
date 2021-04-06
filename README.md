@@ -33,4 +33,5 @@ By this way in this project we have deployed some of the machine learning algori
 <br>
 <b>SCREENSHORT OF THE PROTOTYPE</b>
 <br>
+<br>
 <a>https://drive.google.com/drive/folders/1FwPvO5T1oZLVH8jmDz9dWP4zmhxh96er?usp=sharing</a>
